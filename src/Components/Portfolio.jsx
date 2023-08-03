@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "JSON-Formatter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Tool to format your Json data in a pretty way. Compiled using WebAssembly and Golang.",
+    url: "https://github.com/nitishfy/Json-Formatter",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Rest API",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple rest api to perform CRUD operations on a database. Built using Golang and Gorm.",
+    url: "https://github.com/nitishfy/go-movies-CRUD",
   },
   {
-    title: "My Resume Site",
+    title: "Email Verification Tool",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple tool to verify email addresses in bulk. Built using Golang",
+    url: "https://github.com/nitishfy/Email-Verification-Tool",
   },
 ];
 
